@@ -1,13 +1,13 @@
 {
-    "name": "htmlburger/carbon-field-icon",
+    "name": "mindfullsilence/carbon-field-icon",
     "description": "Carbon Fields extension, that adds a Icon field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-field-icon"],
-    "homepage": "",
     "type": "library",
     "license": "GPL-2.0+",
     "authors": [],
     "require": {
-        "htmlburger/carbon-fields": "^2.0"
+        "htmlburger/carbon-fields": "^2.0",
+        "johnpbloch/wordpress": "*"
     },
     "autoload": {
         "files": [
