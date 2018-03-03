@@ -9,6 +9,7 @@
         "htmlburger/carbon-fields": "^2.0",
         "johnpbloch/wordpress": "*"
     },
+    "replaces": "htmlburger/carbon-field-icon",
     "autoload": {
         "files": [
             "field.php"
