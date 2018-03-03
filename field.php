@@ -1,14 +1,13 @@
 <?php
 namespace Carbon_Field_Icon;
 
-use function add_action;
 use Carbon_Fields\Carbon_Fields;
 
 define( 'Carbon_Field_Icon\\VERSION', '2.0.0' );
 define( 'Carbon_Field_Icon\\DIR', __DIR__ );
 
 
-class Field_Loader {
+class Icon_Field_Loader {
 
 	public static function init() {
 
