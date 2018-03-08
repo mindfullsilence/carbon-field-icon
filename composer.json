@@ -6,8 +6,7 @@
     "license": "GPL-2.0+",
     "authors": [],
     "require": {
-        "htmlburger/carbon-fields": "^2.0",
-        "johnpbloch/wordpress": "*"
+        "htmlburger/carbon-fields": "^2.0"
     },
     "replaces": "htmlburger/carbon-field-icon",
     "autoload": {

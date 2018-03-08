@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7fd35ab71423bebaeec3947189c651af",
+    "content-hash": "a4c45f053657c331b07848725df4d936",
     "packages": [
         {
             "name": "htmlburger/carbon-fields",
